@@ -16,3 +16,7 @@ Examen de DTAW
    1.4. Cambio de la configuración de package.json para utilizar ESNext y NodeNext
 
    1.5. Cambio de la configuración de tsconfig.json con los directorios para src y dist
+
+2. Definición del archivo que contendrá los datos.
+   2.1. Creamos un tipo que será nuestro tipo de datos del objeto Product
+   2.2. Damos contenido a varios objetos instanciando la clase e indicándole los identificadores únicos en formato uuid

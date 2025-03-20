@@ -117,9 +117,9 @@
     "yn": "^3.1.1"
   },
   "scripts": {
-      "dev": "tsx watch src/server.ts",
-      "build": "tsc",
-      "start": "node dist/server.js"
+    "dev": "tsx watch src/prototipo/server1.ts",
+    "build": "tsc",
+    "start": "node dist/prototipo/server1.js"
   },
   "repository": {
     "type": "git",
