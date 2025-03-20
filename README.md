@@ -20,3 +20,5 @@ Examen de DTAW
 2. Definición del archivo que contendrá los datos.
    2.1. Creamos un tipo que será nuestro tipo de datos del objeto Product
    2.2. Damos contenido a varios objetos instanciando la clase e indicándole los identificadores únicos en formato uuid
+
+3. Creación de los endpoints y la lógica de los mismos.
